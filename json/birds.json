@@ -1,0 +1,9 @@
+{
+        "birds": [
+          {"id": 101, "name": "Black-bellied Whistling-Duck"},
+          {"id": 102, "name": "Fulvous Whistling-Duck"},
+          {"id": 103, "name": "Taiga Bean-Goose" },
+          {"id": 104, "name": "Tundra Bean-Goose"},
+          {"id": 105, "name": "Pink-footed Goose"}
+        ]
+}
